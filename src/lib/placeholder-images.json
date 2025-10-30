@@ -1,0 +1,142 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A delicious and healthy tiffin box with multiple compartments.",
+      "imageUrl": "https://images.unsplash.com/photo-1633797677009-04748b445979?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0aWZmaW4lMjBib3h8ZW58MHx8fHwxNzYxNzMwNjAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tiffin box"
+    },
+    {
+      "id": "hero-2",
+      "description": "A close-up of a freshly prepared Indian thali.",
+      "imageUrl": "https://images.unsplash.com/photo-1572517499173-4e2cb8bef19b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxpbmRpYW4lMjB0aGFsaXxlbnwwfHx8fDE3NjE2NzI3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian thali"
+    },
+    {
+      "id": "hero-3",
+      "description": "A variety of home-cooked meals ready for delivery.",
+      "imageUrl": "https://images.unsplash.com/photo-1609434882491-8d15ebd7d2a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxob21lJTIwY29va2VkfGVufDB8fHx8MTc2MTczMDYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "home cooked"
+    },
+    {
+      "id": "vendor-1",
+      "description": "Annapurna Tiffin Services storefront",
+      "imageUrl": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbmRpYW4lMjBmb29kfGVufDB8fHx8MTc2MTczMDYwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian food"
+    },
+    {
+      "id": "vendor-2",
+      "description": "HomelyBite Bhoganalay delicious meal",
+      "imageUrl": "https://images.unsplash.com/photo-1641301547846-2cf73f58fdca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Zm9vZCUyMG1lYWx8ZW58MHx8fHwxNzYxNjMwNzk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food meal"
+    },
+    {
+      "id": "vendor-3",
+      "description": "DailyMeal Khanawal special thali",
+      "imageUrl": "https://images.unsplash.com/photo-1742281257687-092746ad6021?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbmRpYW4lMjB0aGFsaXxlbnwwfHx8fDE3NjE2NzI3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian thali"
+    },
+    {
+      "id": "vendor-4",
+      "description": "Maa Ka Khana home-style food",
+      "imageUrl": "https://images.unsplash.com/photo-1672688830492-63ef76d304dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxob21lJTIwZm9vZHxlbnwwfHx8fDE3NjE3MzA2MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "home food"
+    },
+    {
+      "id": "vendor-5",
+      "description": "TastyBox Meals packed lunch",
+      "imageUrl": "https://images.unsplash.com/photo-1543353071-c953d88f7033?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsdW5jaCUyMGJveHxlbnwwfHx8fDE3NjE2MzgxOTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lunch box"
+    },
+    {
+      "id": "vendor-6",
+      "description": "HealthyThali balanced meal",
+      "imageUrl": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NjE2ODA0MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "vendor-7",
+      "description": "Ghar Ka Swaad, Dombivli",
+      "imageUrl": "https://images.unsplash.com/photo-1694953593181-6ce423500712?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxyb3RpJTIwY3Vycnl8ZW58MHx8fHwxNzYxNzMwNjAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "roti curry"
+    },
+    {
+      "id": "vendor-8",
+      "description": "Purnabramha, Dombivli",
+      "imageUrl": "https://images.unsplash.com/photo-1725167260486-255a40ce00e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtYWhhcmFzaHRyaWFuJTIwZm9vZHxlbnwwfHx8fDE3NjE3MzA2MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "maharashtrian food"
+    },
+    {
+      "id": "vendor-9",
+      "description": "Sanjog, Dombivli",
+      "imageUrl": "https://images.unsplash.com/photo-1625485617425-4eb8ed7d82d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiaXJ5YW5pJTIwZGlzaHxlbnwwfHx8fDE3NjE2NjIwOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "biryani dish"
+    },
+    {
+      "id": "vendor-10",
+      "description": "Trupti, Dombivli",
+      "imageUrl": "https://images.unsplash.com/photo-1695568181440-aca4dac18650?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxpbmRpYW4lMjBzd2VldHN8ZW58MHx8fHwxNzYxNzMwNjAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian sweets"
+    },
+    {
+      "id": "vendor-11",
+      "description": "Rajdhani, Dombivli",
+      "imageUrl": "https://images.unsplash.com/photo-1682338631432-485df0b2989c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyYWphc3RoYW5pJTIwdGhhbGl8ZW58MHx8fHwxNzYxNzMwNjAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rajasthani thali"
+    },
+    {
+      "id": "vendor-12",
+      "description": "Food-o-cracy, Thane",
+      "imageUrl": "https://images.unsplash.com/photo-1690369642866-3f9143af0a89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwYW5lZXIlMjB0aWtrYXxlbnwwfHx8fDE3NjE2MzE2MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paneer tikka"
+    },
+    {
+      "id": "dish-1",
+      "description": "Special Thali",
+      "imageUrl": "https://images.unsplash.com/photo-1741026079032-7cb660e44bad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0aGFsaSUyMG1lYWx8ZW58MHx8fHwxNzYxNzMwNjAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "thali meal"
+    },
+    {
+      "id": "dish-2",
+      "description": "Paneer Butter Masala",
+      "imageUrl": "https://images.unsplash.com/photo-1657186618738-9dfbcee196b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwYW5lZXIlMjBjdXJyeXxlbnwwfHx8fDE3NjE2NzE5MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paneer curry"
+    },
+    {
+      "id": "dish-3",
+      "description": "Dal Makhani",
+      "imageUrl": "https://picsum.photos/seed/d3/100/100",
+      "imageHint": "dal makhani"
+    },
+    {
+      "id": "dish-4",
+      "description": "Aloo Gobi",
+      "imageUrl": "https://images.unsplash.com/photo-1596797038530-2c107229654b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2ZWdldGFibGUlMjBjdXJyeXxlbnwwfHx8fDE3NjE2MDY2NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegetable curry"
+    },
+    {
+      "id": "dish-5",
+      "description": "Veg Biryani",
+      "imageUrl": "https://images.unsplash.com/photo-1752673508949-f4aeeaef75f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiaXJ5YW5pJTIwcmljZXxlbnwwfHx8fDE3NjE2MzIzOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "biryani rice"
+    },
+    {
+      "id": "dish-6",
+      "description": "Chole Bhature",
+      "imageUrl": "https://images.unsplash.com/photo-1558437873-b8867755d869?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hvbGUlMjBiaGF0dXJlfGVufDB8fHx8MTc2MTY3MTQyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chole bhature"
+    },
+    {
+      "id": "profile-avatar",
+      "description": "User avatar",
+      "imageUrl": "https://images.unsplash.com/photo-1600180758890-6b94519a8ba6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjE2NjU3ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "payment-qr",
+      "description": "QR code for payment",
+      "imageUrl": "https://images.unsplash.com/photo-1550482781-48d477e61c72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxxciUyMGNvZGV8ZW58MHx8fHwxNzYxNzEzMDM4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "qr code"
+    }
+  ]
+}
